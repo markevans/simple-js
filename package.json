@@ -1,0 +1,19 @@
+{
+  "name": "simple-js",
+  "version": "1.0.0",
+  "description": "Simple setup for bundling JS with webpack",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack-dev-server"
+  },
+  "author": "Mevans",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "html-webpack-plugin": "^2.28.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  },
+  "dependencies": {}
+}
